@@ -13,3 +13,6 @@ O algoritmo Naive Bayes é um método de classificação probabilístico baseado
 ![alt text](image.png)
 
 Tal foi escolhido devido a sua baixa complexidade 
+
+IMG DE AMOTRA
+![alt text](image-1.png)
